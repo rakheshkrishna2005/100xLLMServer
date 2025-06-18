@@ -1,0 +1,12 @@
+Given the following job description and candidate information, rank each candidate based on their match with the job requirements. For each candidate, provide:
+
+Name:
+Score: (0-100)
+
+Job Description:
+{job_desc}
+
+Candidate Information:
+{candidate_infos}
+
+Please format the output exactly as shown above, with each candidate's information separated by a blank line. The score should reflect how well the candidate matches the job requirements, with 100 being a perfect match. 

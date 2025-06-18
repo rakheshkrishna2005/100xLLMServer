@@ -1,0 +1,18 @@
+We are looking for a Software Engineer with the following requirements:
+
+- Strong programming skills in Python, JavaScript, and React
+- Experience with web development frameworks
+- Knowledge of database systems (SQL and NoSQL)
+- Understanding of software design patterns and best practices
+- Experience with version control systems (Git)
+- Good problem-solving and analytical skills
+- Strong communication and teamwork abilities
+- Bachelor's degree in Computer Science or related field
+- 3+ years of professional experience
+
+The ideal candidate should be able to:
+- Design and implement scalable web applications
+- Write clean, maintainable, and well-documented code
+- Collaborate with cross-functional teams
+- Debug and optimize application performance
+- Stay up-to-date with emerging technologies 

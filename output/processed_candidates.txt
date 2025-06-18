@@ -1,0 +1,870 @@
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai, Expected 2026, CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School, Trichy, 2022, Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School, Trichy, 2020, Percentage: 91.6%
+- Web Design - Bharathidasan University, 2018, First Class with Exemplary
+- C Programming - Bharathidasan University, 2019, First Class with Exemplary
+
+Work Experience: 
+- No work experience mentioned in the resume.
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Certificates:
+  - Web Design - Bharathidasan University (2018, First Class with Exemplary)
+  - C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning: Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo.
+Full-Stack Web Development: Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI).
+Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL.
+Android Development: Reac-Native(Expo), Java(Android Studio).
+Programming Languages: Scala, C, R, Rust (Basics), Java, C++.
+Currently Learning: Julia, Mojo, SpringBoot.
+IoT Development: Arduino IDE, Arduino (UNO, Nano, Mega), Raspberry Pi, ESP32, Jetson Nano.
+Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger.
+Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Certificates:
+  - Web Design - Bharathidasan University (2018, First Class with Exemplary)
+  - C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: Rohit P
+
+Mail: 310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: Not available
+
+Education:
+- B.Tech in AIADS, Easwari Engineering College
+  - Expected 2026
+  - CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School
+  - 2022
+  - Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School
+  - 2020
+  - Percentage: 91.6%
+- Certificates:
+  - Web Design - Bharathidasan University | 2018 | First Class with Exemplary
+  - C Programming - Bharathidasan University | 2019 | First Class with Exemplary
+
+Work Experience: Not available
+
+Skills: 
+TensorFlow, PyTorch, Scikit-Learn, Open-CV, Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, GANs, Autoencoders, Transformers, Yolo, HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular, Bootstrap, Tailwind CSS, Node.js, Express, EJS, Handlebars, Python, Flask, FastAPI, MongoDB, Firebase, PostgreSQL, NeonDB, MySQL, Reac-Native, Java, Scala, C, R, Rust, Julia, Mojo, SpringBoot, Arduino IDE, Arduino, Raspberry Pi, ESP32, Jetson Nano, Streamlit, AWS, Vercel, Netlify, Hostinger, Git, Linux, Neovim, Shell Scripting, Anaconda
+rank: 1
+score: 40
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Certificates:
+  - Web Design - Bharathidasan University (2018, First Class with Exemplary)
+  - C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Currently Learning: Julia, Mojo, SpringBoot, IoT Development: Arduino IDE, Arduino (UNO, Nano, Mega), Raspberry Pi, ESP32, Jetson Nano, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Web Design - Bharathidasan University (2018, First Class with Exemplary)
+- C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: Rohit P
+
+Mail: 310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: Not available
+
+Education:
+- B.Tech in AIADS, Easwari Engineering College
+  - Expected 2026
+  - CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School
+  - 2022
+  - Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School
+  - 2020
+  - Percentage: 91.6%
+- Certificates:
+  - Web Design - Bharathidasan University | 2018 | First Class with Exemplary
+  - C Programming - Bharathidasan University | 2019 | First Class with Exemplary
+
+Work Experience: Not available
+
+Skills: 
+TensorFlow, PyTorch, Scikit-Learn, Open-CV, Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, GANs, Autoencoders, Transformers, Yolo, HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular, Bootstrap, Tailwind CSS, Node.js, Express, EJS, Handlebars, Python, Flask, FastAPI, MongoDB, Firebase, PostgreSQL, NeonDB, MySQL, Reac-Native, Java, Scala, C, R, Rust, Julia, Mojo, SpringBoot, Arduino IDE, Arduino, Raspberry Pi, ESP32, Jetson Nano, Streamlit, AWS, Vercel, Netlify, Hostinger, Git, Linux, Neovim, Shell Scripting, Anaconda
+rank: 1
+score: 20
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Certificates:
+  - Web Design - Bharathidasan University (2018, First Class with Exemplary)
+  - C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning: Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo.
+Full-Stack Web Development: Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI).
+Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL.
+Android Development: Reac-Native(Expo), Java(Android Studio).
+Programming Languages: Scala, C, R, Rust (Basics), Java, C++.
+Currently Learning: Julia, Mojo, SpringBoot.
+IoT Development: Arduino IDE, Arduino (UNO, Nano, Mega), Raspberry Pi, ESP32, Jetson Nano.
+Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger.
+Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Web Design - Bharathidasan University (2018, First Class with Exemplary)
+- C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai, Expected 2026, CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School, Trichy, 2022, Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School, Trichy, 2020, Percentage: 91.6%
+- Web Design - Bharathidasan University, 2018, First Class with Exemplary
+- C Programming - Bharathidasan University, 2019, First Class with Exemplary
+
+Work Experience: 
+- No work experience mentioned in the resume.
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai, Expected 2026, CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School, Trichy, 2022, Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School, Trichy, 2020, Percentage: 91.6%
+- Web Design - Bharathidasan University, 2018, First Class with Exemplary
+- C Programming - Bharathidasan University, 2019, First Class with Exemplary
+
+Work Experience: 
+- No work experience mentioned in the resume.
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: Rohit P
+
+Mail: 310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: Not available
+
+Education:
+- B.Tech in AIADS, Easwari Engineering College
+  - Expected 2026
+  - CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School
+  - 2022
+  - Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School
+  - 2020
+  - Percentage: 91.6%
+- Certificates:
+  - Web Design - Bharathidasan University | 2018 | First Class with Exemplary
+  - C Programming - Bharathidasan University | 2019 | First Class with Exemplary
+
+Work Experience: Not available
+
+Skills: 
+TensorFlow, PyTorch, Scikit-Learn, Open-CV, Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, GANs, Autoencoders, Transformers, Yolo, HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular, Bootstrap, Tailwind CSS, Node.js, Express, EJS, Handlebars, Python, Flask, FastAPI, MongoDB, Firebase, PostgreSQL, NeonDB, MySQL, Reac-Native, Java, Scala, C, R, Rust, Julia, Mojo, SpringBoot, Arduino IDE, Arduino, Raspberry Pi, ESP32, Jetson Nano, Streamlit, AWS, Vercel, Netlify, Hostinger, Git, Linux, Neovim, Shell Scripting, Anaconda
+rank: 1
+score: 40
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai, Expected 2026, CGPA: 8.33
+- HSSC, SBIOA Senior Secondary School, Trichy, 2022, Percentage: 93.2%
+- SSLC, SBIOA Senior Secondary School, Trichy, 2020, Percentage: 91.6%
+- Web Design - Bharathidasan University, 2018, First Class with Exemplary
+- C Programming - Bharathidasan University, 2019, First Class with Exemplary
+
+Work Experience: 
+- No work experience mentioned in the resume.
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: Rohit P Resume 2025.pdf
+Name: 
+Rohit P
+
+Mail: 
+310622243041@eec.srmrmp.edu.in
+
+LinkedIn ID: 
+Github:RohitP2005
+
+Education: 
+- B.Tech in AIADS, Easwari Engineering College, Chennai (Expected 2026, CGPA: 8.33)
+- HSSC, SBIOA Senior Secondary School, Trichy (2022, Percentage: 93.2%)
+- SSLC, SBIOA Senior Secondary School, Trichy (2020, Percentage: 91.6%)
+- Web Design - Bharathidasan University (2018, First Class with Exemplary)
+- C Programming - Bharathidasan University (2019, First Class with Exemplary)
+
+Work Experience: 
+(No work experience information available)
+
+Skills: 
+Artificial Intelligence & Machine Learning, Core Libraries: TensorFlow, PyTorch, Scikit-Learn, Open-CV, NLP: Regex, BERT, LangChain, Hugging Face models, GPT-3, Gemini, LLaMA-3, Cohere, Generative AI: GANs, Autoencoders, Transformers, Yolo, Full-Stack Web Development, Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Angular (Basics), Bootstrap, Tailwind CSS, Backend: Node.js, Express, EJS, Handlebars, Python (Flask, FastAPI), Databases: NoSQL: MongoDB, Firebase, SQL: PostgreSQL, NeonDB, MySQL, Android Development: Reac-Native(Expo), Java(Android Studio), Programming Languages: Scala, C, R, Rust (Basics), Java, C++, Deployment & Cloud: Streamlit, AWS(EC2), Vercel, Netlify, Hostinger, Tools & Environments: Git, Linux (Arch, Ubuntu, Mint, Kali, Garuda), Neovim, Shell Scripting, Anaconda.
+rank: 1
+score: 0
+---
+File name: 310622148046-Tanush.pdf
+Name: 
+TANUSH T M
+
+Mail: 
+tanushtm.work@gmail.com
+
+LinkedIn ID: 
+tanush-tm
+
+Education: 
+B.E in Computer Science Engineering (with specialization in AI and ML)
+SRM Easwari Engineering College, Chennai
+CGPA – 8.93
+Nov 2022 - present
+
+Work Experience: 
+1. Freelance AI & Web Developer 
+   Kritam Creations, DataScon Solutions & other agencies | Sept 2024 – May 2025
+   - Worked as a Freelance AI and Web developer on 14 gigs for 10 clients over a span of 9 months.
+   - These gigs are predominantly focused on custom solutions and consulting related to AI, Full Stack Development and Data.
+   - Worked on a variety of freelance gigs such as Development of MVP and Software Products for Startups.
+   - End-to-end Website Development, AI Integration and Consulting, Custom Computer Vision Use cases, Landing Pages etc.  
+2. COMPUTER VISION INTERN
+   Infomaps, Chennai | June 2024 – Aug 2024
+   - Real-Time Traffic Analytics
+     - This is a project done for the Tamil Nadu State Police. This project focuses on extracting Traffic Analytical data in real time. 
+     - The project focuses on maintaining data of vehicle count by leveraging object classification, tracking and counting.
+     - The project classifies the vehicles on a variety of classes and maintains the count and other analytical data.
+   - Building Footprint Extraction 
+     - Focused on automating the workflow of processing raw satellite data and imagery to digitized maps.
+     - Utilized advanced computer vision techniques and deep learning frameworks to complete the entire project.
+     - The high level workflow is to extract building footprints, polygonize them and convert it into GIS compatible shape files.
+3. DATA SCIENCE INTERN
+   Exposys Data Labs | May 2024 – June 2024
+   - Focused on building a reliable and efficient Machine Learning model to a health condition. 
+   - Worked on Data Acquiring, Cleaning, Analysis, Preprocessing, Machine Learning Techniques.
+4. CHIEF TECHNICAL LEAD - ADEPTUS 
+   ADEPTUS - Technical Club, EEC | Oct 2024 – present
+   - My roles and responsibilities are aligned towards building websites and systems that could help the club manage content creation 
+   - I also build interactive solutions for the events, newsletters and blogs of the club.
+
+Skills: 
+Deep Learning, AI, Full Stack Development, Computer Vision, Data Science, LLMs, Agents & Machine Learning, Python, C, C++, Javascript, Java, Typescript, Lua, Julia, R, SQL, Agentic AI, Model Development & Optimization, LLM Wrappers, RAG Architectures, custom CV usecases & Tableau, NextJS, React, NodeJS, Django, FastAPI, Flask, ShadcnUI, Flowbite, AceternityUI, CRUD and APIs, System Design, OOPS, DBMS and SQL, OS and Computer Networks, Data Structures and Algorithms, Problem Solving, First Principle Thinking, Higher order Physics, English, Hindi, Tamil, Punjabi.
+rank: 1
+score: 0
+---
+File name: rakhesh.pdf
+Name: RAKHESH KRISHNA P
+
+Mail: rakheshkrishnap@gmail.com
+
+LinkedIn ID: linkedin.com/in/rakhesh-krishna-p
+
+Education:
+• SRM Easwari Engineering College - Chennai, India
+  2022 - 2026
+  Bachelor of Engineering, Computer Science and Engineering (AI & ML)
+  CGPA: 8.60
+• Velankanni Matriculation Higher Secondary School - Chennai, India
+  2007 - 2022
+  Stream: Mathematics and Computer Science.
+  Class 10: 94% Class 12: 90.33%
+
+Work Experience:
+• SRM Dental College
+  Chennai, India, March 2025 - April 2025
+  Research Intern
+  • Conducting data analysis to identify effective medicines for treating various cancer types.
+  • Gathering and analyzing data from research papers to evaluate tumor inhibition, multiplicity, and volume.
+• Trios Technologies Private Limited
+  Chennai, India, July 2024
+  Artificial Intelligence Intern — Tech Stack: Next.js. TypeScript, FastAPI, ShadCN UI
+  • Developed a Deep Learning model that analyzes 210 MRI scans per minute.
+  • Achieved 98.91% accuracy in dementia classification by custom-tuning ResNet-50 layers.
+• GirlScript Summer of Code
+  Remote, October 2024 - November 2024
+  Open-Source Contributor
+  • Developed a YOLOv8 model for real-time object counting and vehicle classification using CNNs.
+  • Developed a NLP model for sentiment analysis. Merged 8 pull requests in GSSoC open-source projects.
+
+Skills: Python, C, Java, HTML, CSS, JavaScript, Node JS, Postgre SQL, Mongo DB, Express, Flask, PyTorch, TensorFlow, Keras, Next.js, React.js, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, OpenCV, NLTK, BeautifulSoup, Scrapy, Selenium, Visual Studio Code, GitHub, Jupyter, Colab, Postman, Command Prompt, Git Bash, Nvidia CUDA.
+rank: 1
+score: 85
+---
+File name: spike.pdf
+Name: Spike O’Carroll
+Mail: career@spike.codes
+LinkedIn ID: linkedin.com/in/spike-ocarroll
+Education:
+- University of California, Irvine
+  - GPA: 3.95
+  - B.S., Computer Science
+  - Expected Dec 2025
+Work Experience:
+- Full Stack Software Intern
+  - Dec 2023 – Sep 2024
+    - Portal AI
+    - Remote
+    - Shipped 80+ features to a venture-backed startup’s AI web browser and LLM interface serving 30,000 users/mo
+    - Built a high-performance vector database in Rust with SQL query support and cloud syncing with Postgres server
+    - Launched a conversational voice AI in Python with < 600ms latency, web agent capabilities, and RAG
+    - Worked closely with fast-paced teams to develop Electron-based browser in Node, TypeScript, React, and Tailwind
+- Freelance Web Developer
+  - Nov 2021 – Dec 2023
+    - Self-employed
+    - Culver City, CA
+    - Created high-converting websites for businesses and public figures using Webflow, Figma, and Framer
+    - Organically increased web traffic by 2-3x for more than 90% of clients through maximizing SEO and page speed
+    - Designed stunning landing pages and 0→1 web branding featured in 32 Behance and Dribbble collections
+- Frontend and Webmaster Intern
+  - Mar 2023 – Nov 2023
+    - Maximize Athletic Performance
+    - Los Angeles, CA
+    - Designed and maintained website, Shopify store, and JotForm assessment form for private gym
+    - Architected automation pipelines saving 10 hours/week on client processing using webhooks and Zapier
+Skills: TypeScript, JavaScript, Python, C/C++, Java, Rust, HTML, CSS, SQL, C#, Go, React, NextJS, Node.js, Electron, Chakra UI, Tailwind CSS, Flask, Django, Docker, AWS, Git, Firebase, GitHub, CI/CD, Linux, Azure, Shell Scripts, WordPress, CMS, Open Source, DevOps, UI/UX, Quality Assurance, Machine Learning, Artificial Intelligence, NLP, Excel
+rank: 2
+score: 92
+---
+File name: navipriya.pdf
+Name: Navipriya S
+Mail: navisenthilnadhan@gmail.com
+LinkedIn ID: www.linkedin.com/in/navipriyas
+Education:
+- Chennai Institute Of Technology | Bachelor of Engineering in Computer Science (2021 – 2025)
+  - Coursework: Operating System, DBMS, OOPS, Data Structures, Computer Networks.
+Work Experience:
+- Arwin Networks | Web Developer Intern (June 2023 – September 2023)
+  - Orchestrated the design of stuwoork.com skillfully utilizing React and responsive principles for seamless functionality
+  - Led comprehensive usability testing, achieving a 20% reduction in inquiries through a user-centric approach.
+  - Demonstrated effective design leadership, contributing to a notable 15% improvement in overall user satisfaction.
+- LiveWire | Web Developer Intern (May 2023 – October 2023)
+  - Directed 50% of the front-end development for the Django website, ensuring timely deliverables and outcomes.
+  - Attained faster database retrieval, boosting team productivity by 20% and enhancing access to 20+ courses.
+  - Centralized all course inquiry data, reducing duplicate entries and facilitating 20% faster data retrieval.
+- Placement 360 | Campus Ambassador (July 2023 – December 2023)
+  - Elevated Placement 360 visibility through consistently engaging communication strategies.
+  - Consistently surpassed task expectations, maintaining perfect 100% meeting attendance, and boosting participation.
+  - Gained favorable remarks from project management, contributing to a 15% increase in overall team morale.
+Skills: Java, Python, C, HTML/CSS, JavaScript, SQL, React.js, Node.js, Express.js, RESTful APIs, Git, GitHub, Docker, Django, React Native, Bootstrap, Tailwind CSS, jQuery, MySQL, MongoDB, PostgreSQL
+rank: 3
+score: 78
+---
+File name: bill.pdf
+Name: 
+Bill Zhang
+
+Mail: 
+jzhang71@usc.edu
+
+LinkedIn ID: 
+in/bill-zhang1
+
+Education: 
+- University of Southern California
+  - Master of Science in Computer Science - Artificial Intelligence
+    - August 2023 – Expected May 2025
+- University of California, Santa Cruz
+  - Bachelor of Science in Computer Science
+    - September 2020 – March 2023
+
+Work Experience: 
+- RingCentral
+  - AI Engineer
+    - June 2023 – Present
+    - Automated analysis of 10,000 weekly support chats using OpenAI GPT-4, Pandas, and Google Cloud Platform, generating 20 visual reports via Google Looker Studio.
+    - Increased resolution rate by 1400% by developing a web chatbot using Weaviate Vector DB, OpenAI embeddings.
+    - Engineered a sales tool aggregating data from 15 sources (including Salesforce and Highspot), leveraging custom XGBoost models processing 96 features to create personalized sales pitches.
+- SproutLabs, LLC
+  - Software Engineer Intern
+    - January 2023 – June 2023
+    - Led development of a real-time admin dashboard in VueJS, featuring dynamic multi-faceted tables and Google Maps integration for precise device tracking and geospatial analytics.
+    - Implemented end-to-end and unit testing across 5 screen sizes and 3 browsers using Playwright and Vitest.
+- Projects (Note: This is not a traditional work experience, but rather a list of projects)
+  - Slug Loop
+    - React, Material UI, ExpressJS, C, Azure
+    - March 2023 – Present
+    - Developed a real-time bus tracking app for buses at UCSC, serving over 12,000 users.
+    - Built a responsive React app with Google Maps integration to display active buses in real time.
+    - Achieved Global Top 10 in the Google Developer Student Challenge out of 2000 teams worldwide.
+  - DispatchAI
+    - NextJS, FastAPI, Twilio, RetellAI, Hume, Google Maps
+    - June 2023 – Present
+    - Developed an emphatic AI agent designed to triage calls and eliminate 911 wait times during emergencies.
+    - Integrated conversational AI powered call handling using Twilio with a custom fine-tuned Mistral 7B model.
+    - Won Grand Prize, AI For Good, and 1st place Intel at UC Berkeley AI Hackathon out of 900+ participants.
+  - TalkToABank
+    - NextJS, OpenAI, RetellAI
+    - November 2023
+    - Developed a voice-based AI banking assistant providing services via phone calls to unbanked populations.
+    - Built multi-agent AI system using Retell AI and OpenAI for dynamic conversation routing and query handling.
+    - Secured 1st Overall and 1st place Goldman Sachs Winner at HackUTD out of 1,000+ participants.
+  - ASL Recognition
+    - TensorFlow, Pandas, Sklearn, NumPy, Keras
+    - March 2023
+    - Developed ASL Recognition Snapchat filter using MobileNetV2, achieving 91.6% test accuracy and reaching over 280,000 uses in the Snapchat filter store.
+    - Leveraged image augmentation techniques like rotation and zoom, as well as object detection.
+  - WeCracked
+    - NextJs, Material UI, Firebase
+    - May 2023 – Present
+    - Co-founded WeCracked, a hackathon community, growing to 7,500 members and securing $10k in funding through 7 sponsors.
+    - Led a team of 20+ students to build a website with NextJS and Firebase, secure sponsorships, coordinate PR, and manage a Discord community.
+
+Skills: 
+Python, JavaScript, TypeScript, C/C++, Java, HTML, CSS, Dart, PyTorch, TensorFlow, Keras, NumPy, Pandas, Scikit Learn, MatplotLib, OpenCV, YoloV12, React, NextJS, Vue, Angular, Flask, FastAPI, ExpressJS, Azure, GCP, AWS, PostgreSQL, GraphQL, OpenAI, Anthropic, Mistral, Cohere, LangChain, LlamaIndex, Git, Docker
+rank: 1
+score: 0
+---
+File name: rakhesh.pdf
+Name: RAKHESH KRISHNA P
+
+Mail: rakheshkrishnap@gmail.com
+
+LinkedIn ID: linkedin.com/in/rakhesh-krishna-p
+
+Education:
+• SRM Easwari Engineering College - Chennai, India
+  2022 - 2026
+  Bachelor of Engineering, Computer Science and Engineering (AI & ML)
+  CGPA: 8.60
+• Velankanni Matriculation Higher Secondary School - Chennai, India
+  2007 - 2022
+  Stream: Mathematics and Computer Science.
+  Class 10: 94% Class 12: 90.33%
+
+Work Experience:
+• SRM Dental College
+  Chennai, India, March 2025 - April 2025
+  Research Intern
+  • Conducting data analysis to identify effective medicines for treating various cancer types.
+  • Gathering and analyzing data from research papers to evaluate tumor inhibition, multiplicity, and volume.
+• Trios Technologies Private Limited
+  Chennai, India, July 2024
+  Artificial Intelligence Intern — Tech Stack: Next.js. TypeScript, FastAPI, ShadCN UI
+  • Developed a Deep Learning model that analyzes 210 MRI scans per minute.
+  • Achieved 98.91% accuracy in dementia classification by custom-tuning ResNet-50 layers.
+• GirlScript Summer of Code
+  Remote, October 2024 - November 2024
+  Open-Source Contributor
+  • Developed a YOLOv8 model for real-time object counting and vehicle classification using CNNs.
+  • Developed a NLP model for sentiment analysis. Merged 8 pull requests in GSSoC open-source projects.
+
+Skills: Python, C, Java, HTML, CSS, JavaScript, Node JS, Postgre SQL, Mongo DB, Express, Flask, PyTorch, TensorFlow, Keras, Next.js, React.js, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, OpenCV, NLTK, BeautifulSoup, Scrapy, Selenium, Visual Studio Code, GitHub, Jupyter, Colab, Postman, Command Prompt, Git Bash, Nvidia CUDA.
+rank: 2
+score: 78
+---
+File name: spike.pdf
+Name: Spike O’Carroll
+Mail: career@spike.codes
+LinkedIn ID: linkedin.com/in/spike-ocarroll
+Education:
+- University of California, Irvine
+  - GPA: 3.95
+  - B.S., Computer Science
+  - Expected Dec 2025
+Work Experience:
+- Full Stack Software Intern
+  - Dec 2023 – Sep 2024
+    - Portal AI
+    - Remote
+    - Shipped 80+ features to a venture-backed startup’s AI web browser and LLM interface serving 30,000 users/mo
+    - Built a high-performance vector database in Rust with SQL query support and cloud syncing with Postgres server
+    - Launched a conversational voice AI in Python with < 600ms latency, web agent capabilities, and RAG
+    - Worked closely with fast-paced teams to develop Electron-based browser in Node, TypeScript, React, and Tailwind
+- Freelance Web Developer
+  - Nov 2021 – Dec 2023
+    - Self-employed
+    - Culver City, CA
+    - Created high-converting websites for businesses and public figures using Webflow, Figma, and Framer
+    - Organically increased web traffic by 2-3x for more than 90% of clients through maximizing SEO and page speed
+    - Designed stunning landing pages and 0→1 web branding featured in 32 Behance and Dribbble collections
+- Frontend and Webmaster Intern
+  - Mar 2023 – Nov 2023
+    - Maximize Athletic Performance
+    - Los Angeles, CA
+    - Designed and maintained website, Shopify store, and JotForm assessment form for private gym
+    - Architected automation pipelines saving 10 hours/week on client processing using webhooks and Zapier
+Skills: TypeScript, JavaScript, Python, C/C++, Java, Rust, HTML, CSS, SQL, C#, Go, React, NextJS, Node.js, Electron, Chakra UI, Tailwind CSS, Flask, Django, Docker, AWS, Git, Firebase, GitHub, CI/CD, Linux, Azure, Shell Scripts, WordPress, CMS, Open Source, DevOps, UI/UX, Quality Assurance, Machine Learning, Artificial Intelligence, NLP, Excel
+rank: 3
+score: 88
+---
+File name: navipriya.pdf
+Name: Navipriya S
+Mail: navisenthilnadhan@gmail.com
+LinkedIn ID: www.linkedin.com/in/navipriyas
+Education:
+- Chennai Institute Of Technology | Bachelor of Engineering in Computer Science (2021 – 2025)
+  - Coursework: Operating System, DBMS, OOPS, Data Structures, Computer Networks.
+Work Experience:
+- Arwin Networks | Web Developer Intern (June 2023 – September 2023)
+  - Orchestrated the design of stuwoork.com skillfully utilizing React and responsive principles for seamless functionality
+  - Led comprehensive usability testing, achieving a 20% reduction in inquiries through a user-centric approach.
+  - Demonstrated effective design leadership, contributing to a notable 15% improvement in overall user satisfaction.
+- LiveWire | Web Developer Intern (May 2023 – October 2023)
+  - Directed 50% of the front-end development for the Django website, ensuring timely deliverables and outcomes.
+  - Attained faster database retrieval, boosting team productivity by 20% and enhancing access to 20+ courses.
+  - Centralized all course inquiry data, reducing duplicate entries and facilitating 20% faster data retrieval.
+- Placement 360 | Campus Ambassador (July 2023 – December 2023)
+  - Elevated Placement 360 visibility through consistently engaging communication strategies.
+  - Consistently surpassed task expectations, maintaining perfect 100% meeting attendance, and boosting participation.
+  - Gained favorable remarks from project management, contributing to a 15% increase in overall team morale.
+Skills: Java, Python, C, HTML/CSS, JavaScript, SQL, React.js, Node.js, Express.js, RESTful APIs, Git, GitHub, Docker, Django, React Native, Bootstrap, Tailwind CSS, jQuery, MySQL, MongoDB, PostgreSQL
+rank: 4
+score: 72
+---
+File name: rakhesh.pdf
+Name: RAKHESH KRISHNA P
+
+Mail: rakheshkrishnap@gmail.com
+
+LinkedIn ID: linkedin.com/in/rakhesh-krishna-p
+
+Education:
+• SRM Easwari Engineering College - Chennai, India
+  2022 - 2026
+  Bachelor of Engineering, Computer Science and Engineering (AI & ML)
+  CGPA: 8.60
+• Velankanni Matriculation Higher Secondary School - Chennai, India
+  2007 - 2022
+  Stream: Mathematics and Computer Science.
+  Class 10: 94% Class 12: 90.33%
+
+Work Experience:
+• SRM Dental College
+  Chennai, India, March 2025 - April 2025
+  Research Intern
+  • Conducting data analysis to identify effective medicines for treating various cancer types.
+  • Gathering and analyzing data from research papers to evaluate tumor inhibition, multiplicity, and volume.
+• Trios Technologies Private Limited
+  Chennai, India, July 2024
+  Artificial Intelligence Intern — Tech Stack: Next.js. TypeScript, FastAPI, ShadCN UI
+  • Developed a Deep Learning model that analyzes 210 MRI scans per minute.
+  • Achieved 98.91% accuracy in dementia classification by custom-tuning ResNet-50 layers.
+• GirlScript Summer of Code
+  Remote, October 2024 - November 2024
+  Open-Source Contributor
+  • Developed a YOLOv8 model for real-time object counting and vehicle classification using CNNs.
+  • Developed a NLP model for sentiment analysis. Merged 8 pull requests in GSSoC open-source projects.
+
+Skills: Python, C, Java, HTML, CSS, JavaScript, Node JS, Postgre SQL, Mongo DB, Express, Flask, PyTorch, TensorFlow, Keras, Next.js, React.js, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, OpenCV, NLTK, BeautifulSoup, Scrapy, Selenium, Visual Studio Code, GitHub, Jupyter, Colab, Postman, Command Prompt, Git Bash, Nvidia CUDA.
+rank: 1
+score: 60
+---
+File name: spike.pdf
+Name: 
+Spike O’Carroll
+
+Mail: 
+career@spike.codes
+
+LinkedIn ID: 
+linkedin.com/in/spike-ocarroll
+
+Education: 
+University of California, Irvine
+- B.S., Computer Science
+- Expected Dec 2025
+- GPA: 3.95
+
+Work Experience: 
+1. Full Stack Software Intern
+- Dec 2023 – Sep 2024
+- Portal AI
+- Remote
+- Shipped 80+ features to a venture-backed startup’s AI web browser and LLM interface serving 30,000 users/mo
+- Built a high-performance vector database in Rust with SQL query support and cloud syncing with Postgres server
+- Launched a conversational voice AI in Python with < 600ms latency, web agent capabilities, and RAG
+- Worked closely with fast-paced teams to develop Electron-based browser in Node, TypeScript, React, and Tailwind
+2. Freelance Web Developer
+- Nov 2021 – Dec 2023
+- Self-employed
+- Culver City, CA
+- Created high-converting websites for businesses and public figures using Webflow, Figma, and Framer
+- Organically increased web traffic by 2-3x for more than 90% of clients through maximizing SEO and page speed
+- Designed stunning landing pages and 0→1 web branding featured in 32 Behance and Dribbble collections
+3. Frontend and Webmaster Intern
+- Mar 2023 – Nov 2023
+- Maximize Athletic Performance
+- Los Angeles, CA
+- Designed and maintained website, Shopify store, and JotForm assessment form for private gym
+- Architected automation pipelines saving 10 hours/week on client processing using webhooks and Zapier
+
+Skills: 
+TypeScript, JavaScript, Python, C/C++, Java, Rust, HTML, CSS, SQL, C#, Go, React, NextJS, Node.js, Electron, Chakra UI, Tailwind CSS, Flask, Django, Docker, AWS, Git, Firebase, GitHub, CI/CD, Linux, Azure, Shell Scripts, WordPress, CMS, Open Source, DevOps, UI/UX, Quality Assurance, Machine Learning, Artificial Intelligence, NLP, Excel
+rank: 2
+score: 0
+---
+File name: navipriya.pdf
+Name: Navipriya S
+Mail: navisenthilnadhan@gmail.com
+LinkedIn ID: www.linkedin.com/in/navipriyas
+Education:
+- Chennai Institute Of Technology | Bachelor of Engineering in Computer Science (2021 – 2025)
+  - Coursework: Operating System, DBMS, OOPS, Data Structures, Computer Networks.
+Work Experience:
+- Arwin Networks | Web Developer Intern (June 2023 – September 2023)
+  - Orchestrated the design of stuwoork.com skillfully utilizing React and responsive principles for seamless functionality
+  - Led comprehensive usability testing, achieving a 20% reduction in inquiries through a user-centric approach.
+  - Demonstrated effective design leadership, contributing to a notable 15% improvement in overall user satisfaction.
+- LiveWire | Web Developer Intern (May 2023 – October 2023)
+  - Directed 50% of the front-end development for the Django website, ensuring timely deliverables and outcomes.
+  - Attained faster database retrieval, boosting team productivity by 20% and enhancing access to 20+ courses.
+  - Centralized all course inquiry data, reducing duplicate entries and facilitating 20% faster data retrieval.
+- Placement 360 | Campus Ambassador (July 2023 – December 2023)
+  - Elevated Placement 360 visibility through consistently engaging communication strategies.
+  - Consistently surpassed task expectations, maintaining perfect 100% meeting attendance, and boosting participation.
+  - Gained favorable remarks from project management, contributing to a 15% increase in overall team morale.
+Skills: Java, Python, C, HTML/CSS, JavaScript, SQL, React.js, Node.js, Express.js, RESTful APIs, Git, GitHub, Docker, Django, React Native, Bootstrap, Tailwind CSS, jQuery, MySQL, MongoDB, PostgreSQL
+rank: 3
+score: 45
+---
+File name: bill.pdf
+Name: 
+Bill Zhang
+
+Mail: 
+jzhang71@usc.edu
+
+LinkedIn ID: 
+in/bill-zhang1
+
+Education: 
+- University of Southern California
+  - Master of Science in Computer Science - Artificial Intelligence
+    - August 2023 – Expected May 2025
+- University of California, Santa Cruz
+  - Bachelor of Science in Computer Science
+    - September 2020 – March 2023
+
+Work Experience: 
+- RingCentral
+  - AI Engineer
+    - June 2023 – Present
+    - Automated analysis of 10,000 weekly support chats using OpenAI GPT-4, Pandas, and Google Cloud Platform, generating 20 visual reports via Google Looker Studio.
+    - Increased resolution rate by 1400% by developing a web chatbot using Weaviate Vector DB, OpenAI embeddings.
+    - Engineered a sales tool aggregating data from 15 sources (including Salesforce and Highspot), leveraging custom XGBoost models processing 96 features to create personalized sales pitches.
+- SproutLabs, LLC
+  - Software Engineer Intern
+    - January 2023 – June 2023
+    - Led development of a real-time admin dashboard in VueJS, featuring dynamic multi-faceted tables and Google Maps integration for precise device tracking and geospatial analytics.
+    - Implemented end-to-end and unit testing across 5 screen sizes and 3 browsers using Playwright and Vitest.
+- Projects (Note: This is not a traditional work experience, but rather a list of projects)
+  - Slug Loop
+    - Developed a real-time bus tracking app for buses at UCSC, serving over 12,000 users.
+    - Built a responsive React app with Google Maps integration to display active buses in real time.
+    - Achieved Global Top 10 in the Google Developer Student Challenge out of 2000 teams worldwide.
+  - DispatchAI
+    - Developed an emphatic AI agent designed to triage calls and eliminate 911 wait times during emergencies.
+    - Integrated conversational AI powered call handling using Twilio with a custom fine-tuned Mistral 7B model.
+    - Won Grand Prize, AI For Good, and 1st place Intel at UC Berkeley AI Hackathon out of 900+ participants.
+  - TalkToABank
+    - Developed a voice-based AI banking assistant providing services via phone calls to unbanked populations.
+    - Built multi-agent AI system using Retell AI and OpenAI for dynamic conversation routing and query handling.
+    - Secured 1st Overall and 1st place Goldman Sachs Winner at HackUTD out of 1,000+ participants.
+  - ASL Recognition
+    - Developed ASL Recognition Snapchat filter using MobileNetV2, achieving 91.6% test accuracy and reaching over 280,000 uses in the Snapchat filter store.
+    - Leveraged image augmentation techniques like rotation and zoom, as well as object detection.
+  - WeCracked
+    - Co-founded WeCracked, a hackathon community, growing to 7,500 members and securing $10k in funding through 7 sponsors.
+    - Led a team of 20+ students to build a website with NextJS and Firebase, secure sponsorships, coordinate PR, and manage a Discord community.
+
+Skills: 
+Python, JavaScript, TypeScript, C/C++, Java, HTML, CSS, Dart, PyTorch, TensorFlow, Keras, NumPy, Pandas, Scikit Learn, MatplotLib, OpenCV, YoloV12, React, NextJS, Vue, Angular, Flask, FastAPI, ExpressJS, Azure, GCP, AWS, PostgreSQL, GraphQL, OpenAI, Anthropic, Mistral, Cohere, LangChain, LlamaIndex, Git, Docker
+rank: 1
+score: 0
+---
+File name: navipriya.pdf
+Name: Navipriya S
+Mail: navisenthilnadhan@gmail.com
+LinkedIn ID: www.linkedin.com/in/navipriyas
+Education:
+- Chennai Institute Of Technology | Bachelor of Engineering in Computer Science (2021 – 2025)
+  - Coursework: Operating System, DBMS, OOPS, Data Structures, Computer Networks.
+Work Experience:
+- Arwin Networks | Web Developer Intern (June 2023 – September 2023)
+  - Orchestrated the design of stuwoork.com skillfully utilizing React and responsive principles for seamless functionality
+  - Led comprehensive usability testing, achieving a 20% reduction in inquiries through a user-centric approach.
+  - Demonstrated effective design leadership, contributing to a notable 15% improvement in overall user satisfaction.
+- LiveWire | Web Developer Intern (May 2023 – October 2023)
+  - Directed 50% of the front-end development for the Django website, ensuring timely deliverables and outcomes.
+  - Attained faster database retrieval, boosting team productivity by 20% and enhancing access to 20+ courses.
+  - Centralized all course inquiry data, reducing duplicate entries and facilitating 20% faster data retrieval.
+- Placement 360 | Campus Ambassador (July 2023 – December 2023)
+  - Elevated Placement 360 visibility through consistently engaging communication strategies.
+  - Consistently surpassed task expectations, maintaining perfect 100% meeting attendance, and boosting participation.
+  - Gained favorable remarks from project management, contributing to a 15% increase in overall team morale.
+Skills: Java, Python, C, HTML/CSS, JavaScript, SQL, React.js, Node.js, Express.js, RESTful APIs, Git, GitHub, Docker, Django, React Native, Bootstrap, Tailwind CSS, jQuery, MySQL, MongoDB, PostgreSQL
+rank: 1
+score: 90
+---
