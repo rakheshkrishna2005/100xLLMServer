@@ -2,14 +2,30 @@ import os
 from pymongo import MongoClient
 from urllib.parse import urlparse
 from pprint import pprint
+import gc
+
+# Global client to reuse connection
+_mongo_client = None
+_mongo_collection = None
 
 def get_mongo_collection():
-    mongo_uri = os.getenv("MONGODB_URI")
-    client = MongoClient(mongo_uri)
-    parsed = urlparse(mongo_uri)
-    db_name = parsed.path.lstrip("/") or "resume_ranking"
-    db = client[db_name]
-    return db["candidates"]
+    global _mongo_client, _mongo_collection
+    
+    if _mongo_collection is None:
+        mongo_uri = os.getenv("MONGODB_URI")
+        if _mongo_client is None:
+            _mongo_client = MongoClient(
+                mongo_uri,
+                maxPoolSize=10,  # Limit connection pool size
+                serverSelectionTimeoutMS=5000  # Fail fast if can't connect
+            )
+        
+        parsed = urlparse(mongo_uri)
+        db_name = parsed.path.lstrip("/") or "resume_ranking"
+        db = _mongo_client[db_name]
+        _mongo_collection = db["candidates"]
+    
+    return _mongo_collection
 
 def append_ranks_to_candidates(candidates_info, rankings_text, session_id):
     ranking_blocks = rankings_text.strip().split("\n\n")
@@ -26,9 +42,9 @@ def append_ranks_to_candidates(candidates_info, rankings_text, session_id):
         if name and score:
             name_to_score[name] = score
 
-    output_path = os.path.join("output", "processed_candidates.txt")
     collection = get_mongo_collection()
-
+    output_path = os.path.join("output", "processed_candidates.txt")
+    
     for idx, candidate in enumerate(candidates_info, 1):
         lines = candidate["info"].splitlines()
         data_dict = {
@@ -62,6 +78,8 @@ def append_ranks_to_candidates(candidates_info, rankings_text, session_id):
         name_key = data_dict["name"].lower()
         data_dict["score"] = int(name_to_score.get(name_key, "0"))
 
+        # Save to file
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, "a", encoding="utf-8") as f:
             f.write(f"File name: {data_dict['file_name']}\n")
             f.write(candidate["info"].strip() + "\n")
@@ -73,14 +91,13 @@ def append_ranks_to_candidates(candidates_info, rankings_text, session_id):
         if data_dict["mail"]:
             existing_candidate = collection.find_one({"mail": data_dict["mail"]})
             if existing_candidate:
-                # 🟢 Update score, rank, and session_id
                 collection.update_one(
                     {"mail": data_dict["mail"]},
                     {
                         "$set": {
                             "score": data_dict["score"],
                             "rank": idx,
-                            "session_id": session_id  # ✅ update session_id too
+                            "session_id": session_id
                         }
                     }
                 )
@@ -89,7 +106,7 @@ def append_ranks_to_candidates(candidates_info, rankings_text, session_id):
         else:
             collection.insert_one(data_dict)
 
-        pprint(data_dict)
+    gc.collect()  # Clean up after database operations
 
 
 
